@@ -31,9 +31,11 @@ Repositório da Capacitação ReactJs da Unect - 2021/1
 ## Dependências utilizadas
 * react-router-dom
 * axios
-    	 npm install <dependência>
-        //ou
-        yarn add <dependência>
+    npm install <dependência>
+    //ou
+    yarn add <dependência>
+        
+        
 
 
 ## Referências e materiais de apoio
