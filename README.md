@@ -29,9 +29,9 @@ Repositório da Capacitação ReactJs da Unect - 2021/1
 
 
 ## Dependências utilizadas
-		npm install dependencia
-		//ou
-		yarn add dependencia
+    npm install dependencia
+    //ou
+    yarn add dependencia
 
 * react-router-dom
 * axios
