@@ -31,10 +31,9 @@ Repositório da Capacitação ReactJs da Unect - 2021/1
 ## Dependências utilizadas
 * react-router-dom
 * axios
-        
-    npm install <dependencia>
-    //ou
-    yarn add <dependencia>
+		npm install dependencia
+		//ou
+		yarn add dependencia
 
 ## Referências e materiais de apoio
 * [Origamid - Javascript Completo](https://www.origamid.com/curso/javascript-completo-es6 "Origamid - Javascript Completo")
