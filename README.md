@@ -1,7 +1,7 @@
 # Capacitação de Javascript
 Repositório da Capacitação ReactJs da Unect - 2021/1
 
-<br>
+
 ## Conceitos Trabalhados
 * Incialização do ReactJs
 * Ambiente de Trabalho ReactJs
@@ -11,23 +11,23 @@ Repositório da Capacitação ReactJs da Unect - 2021/1
 * States & Hooks
 * Axios - Comunicação com o BackEnd
 
-<br>
+
 ## Inicializando o ReactJs
     npx create-react-app <nome>
     //ou
     yarn create react-app <nome>
 
-<br>
+
 ## Abrindo o Frontend
     yarn start
 
-<br>
+
 ## Templates de Código para Componentização
     rafce //Cria um componente React exportável, em formato de arrow function
     rafc   //Cria um componente React, em formato de arrow function
     rcc   //Cria uma classe exportável React
 
-<br>
+
 ## Dependências utilizadas
 * react-router-dom
 * axios
@@ -35,7 +35,7 @@ Repositório da Capacitação ReactJs da Unect - 2021/1
         //ou
         yarn add <dependência>
 
-<br>
+
 ## Referências e materiais de apoio
 * [Origamid - Javascript Completo](https://www.origamid.com/curso/javascript-completo-es6 "Origamid - Javascript Completo")
 * [Origamid - React Completo](https://www.origamid.com/curso/react-completo/ "Origamid - React Completo")
